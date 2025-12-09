@@ -1,6 +1,8 @@
 # The project was created with Vite + React
 
-![Screenshot](public/screenshots/screenshot.png)
+[Screenshot link](https://ibb.co/RGnZrMHZ)
+
+![Screenshot](public/screenshot.png)
 
 # Follow these steps to run the project locally:
 
