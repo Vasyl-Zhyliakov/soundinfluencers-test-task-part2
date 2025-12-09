@@ -1,0 +1,27 @@
+.glass-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin: 0 auto;
+  position: relative;
+  padding-block: 50px;
+
+  &__text {
+    width: 61%;
+    display: block;
+  }
+
+  &__glass-item {
+    display: flex;
+    gap: 8px;
+    padding: 10.5px 18px;
+    border-radius: 8px;
+    position: absolute;
+
+    background: rgba(255, 255, 255, 0.5);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(3px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+}
